@@ -51,7 +51,7 @@ msgstr "Barva při najetí:"
 
 #: ../contents/ui/config/ConfigGeneral.qml
 msgid "Pressed Color:"
-msgstr "Barva při stisknuntí:"
+msgstr "Barva při stisknutí:"
 
 #: ../contents/ui/config/ConfigGeneral.qml
 msgid "Click"
