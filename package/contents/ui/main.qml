@@ -29,7 +29,7 @@ import org.kde.plasma.private.showdesktop 0.1 as ShowDesktopWidget
 import org.kde.draganddrop 2.0 as DragAndDrop
 import org.kde.taskmanager 0.1 as TaskManager
 
-Item {
+PlasmoidItem {
 	id: widget
 
 	Layout.minimumWidth: Layout.maximumWidth

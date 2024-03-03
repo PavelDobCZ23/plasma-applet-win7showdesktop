@@ -1,3 +1,8 @@
+## v14 - Match 2024
+
+* Add support for Plasma 6.0 ([Issue #23](https://github.com/Zren/plasma-applet-win7showdesktop/issues/23))
+* Add czech translations by @PavelDobCZ23
+
 ## v13 - August 16 2023
 
 * Change default size from `3px` to `8px` (Issue #20)

@@ -8,14 +8,13 @@ Icon=user-desktop
 X-KDE-PluginInfo-Author=Chris Holland
 X-KDE-PluginInfo-Email=zrenfire@gmail.com
 X-KDE-PluginInfo-Name=org.kde.plasma.win7showdesktop
-X-KDE-PluginInfo-Version=13
+X-KDE-PluginInfo-Version=14
 X-KDE-PluginInfo-Website=https://github.com/Zren/plasma-applet-win7showdesktop
 X-KDE-PluginInfo-Category=Windows and Tasks
 X-KDE-PluginInfo-License=GPL
-X-Plasma-MainScript=ui/main.qml
 X-Plasma-Provides=org.kde.plasma.windowmanagement
 
-X-Plasma-API=declarativeappletscript
+X-Plasma-API-Minimum-Version=6.0
 X-KDE-ServiceTypes=Plasma/Applet
 X-KDE-FormFactors=desktop
 
