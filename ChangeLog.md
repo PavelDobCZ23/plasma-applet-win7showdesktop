@@ -2,7 +2,6 @@
 
 * Add support for Plasma 6.0 ([Issue #23](https://github.com/Zren/plasma-applet-win7showdesktop/issues/23))
 * Add czech translations by @PavelDobCZ23
-* Test
 
 ## v13 - August 16 2023
 
